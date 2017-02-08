@@ -1,0 +1,12 @@
+F(Bob)
+FALSE
+H(John)
+TRUE
+~H(Alice)
+TRUE
+~H(John)
+FALSE
+G(Bob)
+FALSE
+G(Tom)
+TRUE
